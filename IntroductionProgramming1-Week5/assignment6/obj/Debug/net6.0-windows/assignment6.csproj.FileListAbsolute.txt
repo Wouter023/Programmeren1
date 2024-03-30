@@ -1,0 +1,17 @@
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\bin\Debug\net6.0-windows\assignment6.exe
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\bin\Debug\net6.0-windows\assignment6.deps.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\bin\Debug\net6.0-windows\assignment6.runtimeconfig.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\bin\Debug\net6.0-windows\assignment6.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\bin\Debug\net6.0-windows\assignment6.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.AssemblyReference.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.Form1.resources
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.GenerateResource.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.AssemblyInfoInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.AssemblyInfo.cs
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.csproj.CoreCompileInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\refint\assignment6.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\assignment6.genruntimeconfig.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 1\Programming1\IntroductionProgramming1-Week5\assignment6\obj\Debug\net6.0-windows\ref\assignment6.dll
